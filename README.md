@@ -1,4 +1,4 @@
-## Hello! I'm Aryel Bezerra! 👨🏻‍💻|🧑🏻‍🔬|🧜🏻‍♂️
+## Hey! I'm Aryel Bezerra! 👨🏻‍💻|🧑🏻‍🔬|🧜🏻‍♂️
  <img height=200 align="center" src="https://github.com/HighScientist/HighScientist/assets/139933766/68eeeefd-1d11-43ec-ae64-cbcb0fb4018a"/>
 
 ## Welcome to my GitHub profile! 😁
