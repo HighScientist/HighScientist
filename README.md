@@ -15,6 +15,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
+<img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" width="40" height="40" />
+<img src="https://icon.icepanel.io/Technology/svg/Canva.svg" width="40" height="40" />
 
 ## Reach my Contacts     
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryel-bezerra/)
