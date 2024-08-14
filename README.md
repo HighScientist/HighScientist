@@ -1,17 +1,21 @@
-## Hey! I'm Aryel Bezerra! 👨🏻‍💻|🧑🏻‍🔬|🧜🏻‍♂️
- <img height=200 align="center" src="https://github.com/HighScientist/HighScientist/assets/139933766/68eeeefd-1d11-43ec-ae64-cbcb0fb4018a"/>
+ <p align="center">
+  <img src="Header.png"%>
+</p>
 
 ## Welcome to my GitHub profile! 😁
 
- 
+<img height=200 align="center" src="https://github.com/HighScientist/HighScientist/assets/139933766/68eeeefd-1d11-43ec-ae64-cbcb0fb4018a"/>
+
 ## About me 👇
+
 #### 🧬| Biomedical Scientist
 #### 🦀| Resident in Molecular Oncology
 #### 🧑🏻‍💻| Bioinformatics Student
 #### 📊| Data Science Student
 #### 💊| Computer-Aided Drug Design
 
-## Tools and Technology
+
+## Tools and Technology 💻
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
@@ -26,12 +30,13 @@
 
 
 
-## Reach my Contacts     
+## Reach my Contacts 📲   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryel-bezerra/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/highscientist/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryelbezerra@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/aryelbezerra)
 
+## Github Stats 📊
 <a href="https://github.com/HighScientist/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HighScientist&show_icons=true&theme=synthwave&rank_icon=github&card_width=450"/>
 </a>
