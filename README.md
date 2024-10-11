@@ -18,6 +18,8 @@
 ## Tools and Technology 💻
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" width="40" height="40" />
+<img src="https://cdn.worldvectorlogo.com/logos/red-hat.svg" width="40" height="40" />
+<img src="https://cdn-icons-png.flaticon.com/128/919/919853.png" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
@@ -25,7 +27,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PyMOL_logo.svg/512px-PyMOL_logo.svg.png?20220616080941" width="40" height="40" />
 <img src="https://files.svgcdn.io/logos/seaborn-icon.svg" width="40" height="40" />
 <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="40" height="40" />
-<img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="40" height="40" />
 <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" width="40" height="40" />
 
 
