@@ -9,7 +9,7 @@
 ## About me 👇
 
 #### 🧬| Biomedical Scientist
-#### 🦀| Resident in Molecular Oncology
+#### 🦀| Specialist in Molecular Oncology
 #### 🧑🏻‍💻| Bioinformatics Student
 #### 📊| Data Science Student
 #### 💊| Computer-Aided Drug Design
