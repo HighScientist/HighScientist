@@ -28,7 +28,10 @@
 <img src="https://files.svgcdn.io/logos/seaborn-icon.svg" width="40" height="40" />
 <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="40" height="40" />
 <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" width="40" height="40" />
-
+<img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" width="40" height="40" />
+<img src="https://icon.icepanel.io/Technology/svg/Blender.svg" width="40" height="40" />
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png" width="40" height="40" />
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" width="40" height="40" />
 
 
 ## Reach my Contacts 📲   
