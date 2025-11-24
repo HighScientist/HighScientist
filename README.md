@@ -32,7 +32,9 @@
 <img src="https://icon.icepanel.io/Technology/svg/Blender.svg" width="40" height="40" />
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png" width="40" height="40" />
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" width="40" height="40" />
-
+<img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" width="40" height="40" />
+<img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="40" height="40" />
+<img src="https://icon.icepanel.io/Technology/svg/R-.svg" width="40" height="40" />
 
 ## Reach my Contacts 📲   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryel-bezerra/)
