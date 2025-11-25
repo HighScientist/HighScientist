@@ -78,10 +78,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height=180 src="https://github-readme-stats-mu-one.vercel.app/api?username=HighScientist&show_icons=true&theme=synthwave&rank_icon=github&card_width=400"/>
-  <img height=180 src="https://github-readme-stats-mu-one.vercel.app/api/top-langs/?username=HighScientist&layout=compact&theme=synthwave"/>
-</p>
+<a href="https://github.com/HighScientist/github-readme-stats"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HighScientist&show_icons=true&theme=synthwave&rank_icon=github&card_width=450"/> </a> <a href="https://github.com/anuraghazra/convoychat"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighScientist&layout=donut&theme=synthwave"/> </a>
 
 ---
 
