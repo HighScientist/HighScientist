@@ -54,10 +54,11 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/aryelbezerra)
 
 ## Github Stats 📊
-<a href="https://github.com/HighScientist/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HighScientist&show_icons=true&theme=synthwave&rank_icon=github&card_width=450"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighScientist&layout=donut&theme=synthwave"/>
 </a>
+
 
