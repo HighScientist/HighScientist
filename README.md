@@ -78,13 +78,44 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats-mu-one.vercel.app/api?username=HighScientist&show_icons=true&theme=synthwave&rank_icon=github&card_width=450"/>
-</a>
+<p align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats-mu-one.vercel.app/api/top-langs/?username=HighScientist&layout=donut&theme=synthwave"/>
-</a>
+  <!-- Estatísticas principais -->
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=HighScientist&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&rank_icon=github" />
+
+  <!-- Linguagens mais usadas -->
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighScientist&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" />
+
+</p>
+
+<br>
+
+<p align="center">
+
+  <!-- Streak Stats -->
+  <img height="180" src="https://streak-stats.demolab.com?user=HighScientist&theme=tokyonight&hide_border=true&border_radius=20" />
+
+</p>
+
+<br>
+
+<p align="center">
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=HighScientist&theme=discord&no-frame=true&row=1&column=6" />
+
+</p>
+
+<br>
+
+<p align="center">
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HighScientist&theme=tokyo-night&hide_border=true&area=true" />
+
+</p>
 
 ---
 
