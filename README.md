@@ -2,7 +2,7 @@
   <img src="Header.png" alt="Header" />
 </p>
 
-<h1 align="center">🚀 Welcome to my GitHub Profile</h1>
+<h1 align="center">🚀 Welcome to my GitHub Profile!</h1>
 
 <p align="center">
   <img src="https://github.com/HighScientist/HighScientist/assets/139933766/68eeeefd-1d11-43ec-ae64-cbcb0fb4018a" height="220"/>
