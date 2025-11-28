@@ -72,8 +72,12 @@
 <a href="https://www.kaggle.com/aryelbezerra">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
 </a>
+<a href="https://dev.to/highscientist">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
 </p>
 
+https://dev.to/highscientist
 ---
 
 ## 📊 GitHub Stats
