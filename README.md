@@ -77,7 +77,6 @@
 </a>
 </p>
 
-https://dev.to/highscientist
 ---
 
 ## 📊 GitHub Stats
