@@ -13,11 +13,12 @@
 ## 👤 About Me
 
 <p align="center">
-  <b>🧬 Biomedical Scientist</b> • 
+  <b>🧑🏻‍💻 Data Scientist</b> • 
   <b>🦀 Molecular Oncology Specialist</b> •  
-  <b>🧑🏻‍💻 Bioinformatics Student</b> • 
-  <b>📊 Data Science Student</b> •  
-  <b>💊 Computer-Aided Drug Design | CADD</b>
+  <b>📊 MBA Data Science & Analytics</b> • 
+  <b>🧬 Bioinformatics</b> • 
+  <b>💊 Computer-Aided Drug Design</b> • 
+  <b>🤖 Artificial Intelligence (AI)</b>
 </p>
 
 ---
@@ -35,7 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
   <img src="https://icon.icepanel.io/Technology/svg/R-.svg" width="45"/>
   <img src="https://icon.icepanel.io/Technology/svg/Canva.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PyMOL_logo.svg/512px-PyMOL_logo.svg.png" width="45"/>
   <img src="https://files.svgcdn.io/logos/seaborn-icon.svg" width="45"/>
   <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="45"/>
   <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" width="45"/>
