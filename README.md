@@ -82,18 +82,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HighScientist&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&rank_icon=github" />
-  <img height="180" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighScientist&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" />
-</p>
-
-<p align="center">
   <img height="180" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=HighScientist&theme=tokyonight&hide_border=true&border_radius=20" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=HighScientist&theme=discord&no-frame=true&row=1&column=6" alt="Trophies" />
-  </a>
 </p>
 
 <p align="center">
